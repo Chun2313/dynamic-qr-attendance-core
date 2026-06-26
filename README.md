@@ -14,7 +14,7 @@ npm install -g aws-cdk
 
 🚀 Khởi động nhanh (Quick Start)
 1. Lấy mã nguồn về máy
-git clone <LINK_REPO_CỦA_NHÓM_TẠI_ĐÂY>
+git clone https://github.com/Chun2313/dynamic-qr-attendance-core
 
 cd smart-qr-attendance-api
 2. Cài đặt các thư viện phụ thuộc
